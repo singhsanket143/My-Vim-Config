@@ -1,3 +1,5 @@
+File: vi ~/.vimrc
+
 :syntax on
 
 set number
